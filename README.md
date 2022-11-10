@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jahopp23
-- 👀 I’m interested in coding, front-end development, UI/UX, e-commerce, PWA's, Headless Shopify, software, photography, art, creativity, anthropology.
-- 🌱 I’m currently learning next-gen e-commerce and improving in React, Next, and Vue.
-- 💞️ I’m looking to collaborate on websites, applications, software, startups...
+- 👀 I’m a full stack and front end web developer specializing in e-commerce
+- 🌱 I’m currently developing with next.js, builder.io, react
+- 💞️ I’m looking to collaborate on websites, applications, software, startups.
 - 📫 How to reach me jahopp@gmail.com
 
 <!---
