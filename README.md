@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jahopp23
 - 👀 I’m a full stack and front end web developer specializing in e-commerce
-- 🌱 I’m currently developing with next.js, builder.io, react
-- 💞️ I’m looking to collaborate on websites, applications, software, startups.
+- 🌱 I’m currently working in Next.js, React, TypeScript, Node.js, and Shopify.
+- 💞️ I’m looking to develop e-commerce web applications and build amazing front-end experiences.
 - 📫 How to reach me jahopp@gmail.com
 
 <!---
